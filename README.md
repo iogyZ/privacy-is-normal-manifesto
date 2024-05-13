@@ -1,29 +1,26 @@
-Let’s see which languages we can have the “Privacy is normal” manifesto translated into?
+# Privacy is Normal Manifesto
 
-The goal is to have the manifesto available in several languages and upload the images to github for the community and as an adoption tool for new users.
-How important is it to have the manifesto translated for user adoption?
-Translating the manifesto into your language means that more people receive a message, post it and share it on their social networks. We can visualize the path to adoption through social media.
+**Translations Available:**
+- Spanish
+- French
+- German
+- Italian
+- Portuguese
+- Russian
+- Chinese
+- Japanese
+- Korean
+- Arabic
+- Hindi
 
-But what is so important about the manifesto?
+**Importance of Translation for User Adoption:**
+Translating the manifesto into multiple languages is crucial for user adoption as it allows more people to access and understand the core principles and values behind the Zcash project. By sharing the manifesto on social media platforms in different languages, we can reach a wider audience and promote the importance of privacy as a fundamental right.
 
-The Zcash “Privacy is Normal” manifesto encompasses and highlights the core principles and values behind the Zcash project, emphasizing privacy as a fundamental right and not a privilege.
+**Key Points from the Manifesto:**
+1. Privacy as a Fundamental Right
+2. Technological Neutrality
+3. Individual Empowerment
+4. Innovation and Progress
+5. Transparency and Accountability
 
-Here are some points from Zcash's "Privacy is Normal" manifesto:
-
-Privacy as a Fundamental Right: The manifesto reaffirms that privacy is a fundamental human right that must be protected and preserved. It highlights the importance of privacy not only for individual freedom, but also for people's safety and dignity.
-
-Technological Neutrality: The manifesto defends technological neutrality, stating that privacy should not be restricted to a privileged few, but rather standard and accessible to all technology users.
-
-Individual Empowerment: By empowering users with tools and technologies that protect their privacy, the manifesto aims to empower individuals to control and protect their personal information.
-
-Innovation and Progress: The manifesto highlights that innovation and technological progress should not be incompatible with privacy. On the contrary, they must be driven by it, encouraging the development of solutions that promote user privacy and security.
-
-Transparency and Accountability: While defending privacy as a fundamental right, the manifesto confirms the importance of transparency and accountability in the implementation of privacy technologies. It highlights the need to balance legitimate privacy interests with other considerations, such as security and preventing illicit activities.
-
-
-An editable file will be made available in Illustrator with the fonts, just to replace the text or you can send the translation in text only and we will create the art and upload the image in your language too.
-
-If you have skills and want to create your own art for the manifesto, use your creativity.
- 
-Participate! Let’s make Privacy is Normal viral again!
-This is not a contest, the aim is to create tools for all Zcashers around the world.
+Let's work together to spread the message that "Privacy is Normal" in all languages and empower individuals to protect their personal information. #PrivacyIsNormal #ZcashManifesto
